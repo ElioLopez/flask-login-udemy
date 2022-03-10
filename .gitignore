@@ -125,5 +125,5 @@ dmypy.json
 .pyre/
 
 #virtualenv ignore
-/bin
-/include
+bin/
+include/
